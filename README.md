@@ -4,7 +4,7 @@
 This project presents an exploratory data analysis (EDA) of 2016 Airbnb listing data using **Tableau**, focusing on pricing behavior, availability patterns, property characteristics, and geographic distribution.
 
 The original Airbnb dataset can be accessed here:  
- [[Airbnb Dataset Website Link](https://insideairbnb.com/get-the-data/)]
+ [[InsideAirBnb](https://insideairbnb.com/get-the-data/)]
  
 ##  Live Dashboard
 Access the interactive Tableau dashboard on Tableau Public:  
