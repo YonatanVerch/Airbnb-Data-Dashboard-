@@ -47,7 +47,3 @@ https://public.tableau.com/app/profile/yonatan.verch/viz/AirBnbFullProject_17675
 2. Open the workbook in **Tableau Desktop**  
 3. Ensure the Excel file is located in the same directory as the workbook  
 4. Use interactive filters, maps, and charts to explore trends by neighborhood, room type, price range, and availability
-
-##  Author
-**Yonatan Verch**  
-Mathematics Student | Data Analysis & Visualization  
