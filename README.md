@@ -2,7 +2,6 @@
 
 ## Project Overview
 This project presents an exploratory data analysis (EDA) of Airbnb listing data using **Tableau**, focusing on pricing behavior, availability patterns, property characteristics, and geographic distribution.  
-The analysis is based on **3,818 Airbnb listings** and is delivered through an interactive dashboard designed to support data-driven exploration and insight generation.
 
 ##  Live Dashboard
 Access the interactive Tableau dashboard on Tableau Public:  
