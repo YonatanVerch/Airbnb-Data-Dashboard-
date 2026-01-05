@@ -22,7 +22,7 @@ https://public.tableau.com/app/profile/yonatan.verch/viz/AirBnbFullProject_17675
 ## Dashboard Screenshots
 
 ### Full Dashboard Overview
-![Dashboard Overview](Dashboard .png)
+![Dashboard Overview](Dashboard%20.png)
 
 This view provides a high-level summary of Airbnb listings, highlighting pricing patterns, availability trends, and geographic distribution across neighborhoods.
 
