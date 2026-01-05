@@ -22,21 +22,21 @@ https://public.tableau.com/app/profile/yonatan.verch/viz/AirBnbFullProject_17675
 ## Dashboard Screenshots
 
 ### Full Dashboard Overview
-![Dashboard Overview](images/dashboard_overview.png)
+![Dashboard Overview](images/Dashboard.png)
 
 This view provides a high-level summary of Airbnb listings, highlighting pricing patterns, availability trends, and geographic distribution across neighborhoods.
 
 ---
 
-### Pricing Analysis
-![Pricing Trends](images/pricing_trends.png)
+### Bedroom Price Analysis
+![Bedroom Prices](images/Bedroom Prices.png)
 
-This visualization explores nightly price distributions and trends, revealing a right-skewed distribution driven by premium listings and neighborhood-level variation.
+This visualization examines how nightly prices vary by number of bedrooms, illustrating how larger properties command higher prices and contribute to the right-skewed price distribution.
 
 ---
 
 ### Neighborhood Distribution
-![Neighborhood Map](images/neighborhood_map.png)
+![Neighbourhood Map](images/Neighbourhood Map.png)
 
 A geographic view of Airbnb listings showing strong concentration in central, high-demand neighborhoods with higher average prices.
 
